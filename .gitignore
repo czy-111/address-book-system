@@ -1,0 +1,12 @@
+# 编译生成的文件
+output/
+*.exe
+*.obj
+*.o
+
+# VSCode配置
+.vscode/
+
+# 临时文件
+*.tmp
+*.log
